@@ -1,6 +1,14 @@
 - 👋 Hi, I’m @akiburrchoton
 - 👀 I’m interested in Programming, Web Development & Software Engeneering
-- 🌱 I’m currently learning JavaScript, React, Python, Django
+- 💻 Skills I have 
+  - HTML, CSS, Bootstrap
+  - JavaScript
+  - React(Basic)
+  - PHP
+  - Python
+  - DJango(Basic)
+
+- 🌱 I’m currently learning JavaScript(Advanced), React, Python, Django
 - 📫 How to reach me 
   - Linkedin - https://www.linkedin.com/in/akiburrchoton/
 
