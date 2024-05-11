@@ -1,14 +1,16 @@
 - 👋 Hi, I’m @akiburrchoton
-- 👀 I’m interested in Programming, Web Development & Software Engeneering
-- 💻 Skills I have 
+- An IT graduate of University of Technology, Sydney, with major of Software Development and sub major of Cyber Security.
+- 👀 I’m interested in Frontend and Backend Development, Software Development and Cyber Security. 
+
+- 💻 Skills I have -
   - HTML, CSS, Bootstrap
   - JavaScript
-  - React(Basic)
-  - PHP
+  - React
   - Python
   - DJango(Basic)
-
-- 🌱 I’m currently learning JavaScript(Advanced), React, Python, Django
+  - PHP
+  
+- 🌱 I’m currently learning Problem Solving using programming langauge, JavaScript, React, Python and Django.
 - 📫 How to reach me 
   - Linkedin - https://www.linkedin.com/in/akiburrchoton/
 
