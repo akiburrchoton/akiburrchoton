@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akiburrchoton
+- 👋 Hi, I’m Akibur Rahman Choton, you can call me AKIB! 
 - An IT graduate of University of Technology, Sydney, with major of Software Development and sub major of Cyber Security.
 - 👀 I’m interested in Frontend and Backend Development, Software Development and Cyber Security. 
 
