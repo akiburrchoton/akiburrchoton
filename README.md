@@ -3,7 +3,7 @@
 - 👀 I am interested in Frontend and Backend Development, Software Development and Cyber Security. 
 
 - 💻 Skills I have -
-  - HTML, CSS, Bootstrap
+  - HTML, CSS, Tailwind CSS
   - JavaScript
   - ReactJS
   - NodeJS
