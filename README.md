@@ -6,10 +6,9 @@
   - HTML, CSS, Tailwind CSS
   - JavaScript
   - ReactJS
+  - Nextjs
   - NodeJS
   - Python
-  - DJango(Basic)
-  - PHP
   
 - 📫 How to reach me 
   - Linkedin - https://www.linkedin.com/in/akiburrchoton/
